@@ -1,0 +1,1 @@
+Stage 1: MCP server for Codex memory and learn coding
