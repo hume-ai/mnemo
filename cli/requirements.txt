@@ -1,0 +1,5 @@
+ openai
+ click
+ sqlalchemy
+ python-dotenv
+ gitpython
