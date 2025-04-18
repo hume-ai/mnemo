@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: codex-logger
+Version: 0.1.0
+Summary: CLI and HTTP proxy to log OpenAI/Codex interactions by project and session
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: FastAPI
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy
+Requires-Dist: pydantic
+Requires-Dist: python-dotenv
+Requires-Dist: click
+Requires-Dist: gitpython
+Requires-Dist: httpx

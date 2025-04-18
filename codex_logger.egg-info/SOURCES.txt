@@ -1,0 +1,11 @@
+setup.py
+codex_logger/__init__.py
+codex_logger/cli.py
+codex_logger/db.py
+codex_logger/proxy.py
+codex_logger.egg-info/PKG-INFO
+codex_logger.egg-info/SOURCES.txt
+codex_logger.egg-info/dependency_links.txt
+codex_logger.egg-info/entry_points.txt
+codex_logger.egg-info/requires.txt
+codex_logger.egg-info/top_level.txt
